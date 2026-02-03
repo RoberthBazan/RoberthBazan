@@ -11,6 +11,7 @@
 📊​ &nbsp;Análisis de datos enfocado en supply chain, para reducir costos y tiempos.\
 💬 &nbsp;Negociación con proveedores internos y externos.\
 💡 &nbsp;Me caracterizo por mi Adaptabilidad - Atención al detalle - Pensamiento analítico - Comunicación a todo nivel - Resiliencia\
+
 Mi portafolio: https://roberthbazan.github.io/rbr/
 <div align="center"> </div>
 
@@ -22,7 +23,7 @@ Mi portafolio: https://roberthbazan.github.io/rbr/
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=ms-excel&logoColor=white)
 <!-- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp; -->
 
-#### Base de datos
+#### Bases de datos
 ![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff)
@@ -40,21 +41,17 @@ Mi portafolio: https://roberthbazan.github.io/rbr/
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)&nbsp;
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
-&nbsp;
-
 ## &nbsp; &nbsp; 📬 &nbsp; Contáctame
 
 <br/>
 
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="www.linkedin.com/in/roberth-bazan/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
-<a href="mailto:roberthbazan4@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
-
-
+&nbsp; <a href="https://www.linkedin.com/in/roberth-bazan/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:roberthbazan4@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> 
 </br>
 
 <!--
 **RoberthBazan/RoberthBazan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://github.com/inttter/md-badges
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
