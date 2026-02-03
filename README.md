@@ -41,16 +41,14 @@ Mi portafolio: https://roberthbazan.github.io/rbr/
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)&nbsp;
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
+## 📊 Github Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=RoberthBazan&theme=dark&hide_border=false)
+
 ## 📬 Contáctame
 <br/>
 &nbsp; <a href="https://www.linkedin.com/in/roberth-bazan/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:roberthbazan4@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> 
 </br>
-
-## 📊 GitHub Stats
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=RoberthBazan&theme=dark&hide_border=false)
-
 
 <!--
 **RoberthBazan/RoberthBazan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
