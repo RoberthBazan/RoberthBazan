@@ -5,7 +5,7 @@
 <h2>🙋‍♂️ | Acerca de mí</h2> 
 
 #### 
-👨‍🎓 &nbsp;Titulado en Ingeniería Industrial con tres años de experiencia en el área de Analítica y Logística.\
+👨‍🎓 &nbsp;Titulado en Ingeniería Industrial con dos años de experiencia en el área de Analítica y Logística.\
 ⚙️​ &nbsp;Automatización y generación de reportes en Power BI.\
 🌐 &nbsp;Optimización de la cadena de suministro con decisiones basadas en datos.\
 📊​ &nbsp;Análisis de datos enfocado en supply chain, para reducir costos y tiempos.\
